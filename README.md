@@ -17,6 +17,7 @@ Personal catalog of AI tools — MCPs, CLIs, libraries, wrappers, and frameworks
 | Tool | Category | Status | Added |
 |------|----------|--------|-------|
 | [Docling](libraries/docling.md) | Library | Bookmarked | 2026-03-16 |
+| [Code-Graph-RAG](frameworks/code-graph-rag.md) | Framework | Bookmarked | 2026-03-16 |
 
 ---
 *Maintained by Jai + Claude Code*
